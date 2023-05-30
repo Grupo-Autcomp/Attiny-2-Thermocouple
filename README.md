@@ -2,6 +2,8 @@
 
 This project aims to visualize the temperature readings of a K-type thermocouple using the ATtiny1627 microcontroller without the need for any additional components. The ATtiny-2 series offers a Programmable Gain Amplifier (PGA) in its ADC peripheral, allowing for high-resolution measurements of up to 17 bits using the oversampling function.
 
+The software was developed using the Atmel Studio IDE.
+
 [See more about the ATtiny-2 series](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus/attiny1627).
 
 # Results
